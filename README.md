@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Kushal Desai</h1>
+  <h1 align="center">Hi 👋, I'm Kushal Desai</h1>
 <h3 align="center">🚀 AI/ML Engineer | Deep Learning Explorer | LLM Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&lines=Building+AI-powered+solutions.;Passionate+about+Computer+Vision+%26+LLMs.;Turning+ideas+into+intelligent+products.">
-</p>
+
 
 <br>
 <br>
 ---
-
+</p>
 ### 👨‍💻 About Me:
 - 🧠 AI Developer with experience in Computer Vision, NLP, and LLMs
 - 🤖 Currently working on **automated recruitment systems** using NLP, UiPath, and LLMs at *Relig Global*
