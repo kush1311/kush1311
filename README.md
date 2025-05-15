@@ -73,9 +73,12 @@
 </p>
 
 ---
+---
 
 ### 💡 Quote to Remember
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kush1311/kush1311/main/4e554bc6-f947-4152-9cda-b2cab20df89d.png" width="500" alt="AI Quote by Jensen Huang">
-</p>
+<blockquote align="center">
+  <h3 style="color:#00ffff"><i>“I’m not sure if AI will take jobs or not,<br>but I know for sure — the person who knows how to use AI will.”</i></h3>
+  <p align="center">— Kushal Desai</p>
+</blockquote>
+
