@@ -1,13 +1,13 @@
-<!-- Banner -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/nP2F8qY.gif" width="100%" alt="header" />
+  <img src="https://raw.githubusercontent.com/kush1311/kush1311/main/0443c269-a9eb-4e40-a41c-9bb3f4c72bd2.png" width="100%" alt="Kushal Desai Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Kushal 👋</h1>
 <h3 align="center">🚀 AI/ML Engineer | Deep Learning Enthusiast | Building the Future with Code</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Making+machines+see,+hear,+and+think.;Voice+assistants+with+LLMs.;ML-powered+solutions+for+real-world+problems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Making+machines+see,+hear,+and+think.;Voice+assistants+with+LLMs.;ML-powered+solutions+for+real-world+problems." alt="Typing SVG" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 - 🤖 ML Intern @ **Relig Global** — automating recruitment using NLP, UiPath & LLMs  
 - 🏍️ Built **traffic violation detection system** using YOLOv8 + NanoNets @ Infosys  
 - 🧠 Created scalable **AI agents** for financial scraping @ Fellowship.ai  
-- ⚽ Worked on real-time **sports object detection models** @ Sponsorlytix.ai  
+- ⚽ Worked on real-time sports object detection models @ Sponsorlytix.ai  
 - 🎤 Currently building **Voice Assistants** with LLaMA, Whisper & pyttsx3  
 - 🛠️ I build things that blend AI, automation & creativity  
 
@@ -72,4 +72,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
