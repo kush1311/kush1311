@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Kushal 👋</h1>
 <h3 align="center">🚀 AI/ML Engineer | Deep Learning Enthusiast | Building the Future with Code</h3>
 
-
-
 <!-- Animated Avatar -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" style="margin-right: 20px;" />
@@ -10,7 +8,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="80" />
 </p>
 
-<!-- Animated Typing SVG with bigger width -->
+<!-- Animated Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Passionate+AI+Developer;Loves+building+real-world+ML+projects;Exploring+the+world+of+LLMs" alt="Typing SVG" />
 </p>
@@ -79,5 +77,5 @@
 ### 💡 Quote to Remember
 
 <p align="center">
-  <b>“I am not sure about AI will take jobs or not,<br>but I know this for sure — people who know how to use AI properly will take the job.”</b>
+  <img src="https://raw.githubusercontent.com/kush1311/kush1311/main/4e554bc6-f947-4152-9cda-b2cab20df89d.png" width="500" alt="AI Quote by Jensen Huang">
 </p>
