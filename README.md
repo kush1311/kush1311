@@ -1,9 +1,8 @@
-
 <h1 align="center">Hi there, I'm Kushal 👋</h1>
 <h3 align="center">🚀 AI/ML Engineer | Deep Learning Enthusiast | Building the Future with Code</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+AI+Developer;Loves+building+real-world+ML+projects;Exploring+the+world+of+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+AI+Developer;Loves+building+real-world+ML+projects;Exploring+the+world+of+LLMs" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,9 +23,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,mysql,html,css,selenium,github" />
 </p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=streamlit,vscode,ai,figma,linux,git" />
+  <img src="https://img.shields.io/badge/UIPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white" />
+  <img src="https://img.shields.io/badge/N8N-1A1A1A?style=for-the-badge&logo=n8n&logoColor=orange" />
 </p>
 
 ---
@@ -65,6 +65,8 @@
 
 ---
 
+### 💡 Quote to Remember
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <b>“I am not sure about AI will take jobs or not,<br>but I know this for sure — people who know how to use AI properly will take the job.”</b>
 </p>
