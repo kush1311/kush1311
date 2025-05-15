@@ -78,7 +78,7 @@
 ### 💡 Quote to Remember
 
 <blockquote align="center">
-  <h3 style="color:#00ffff"><i>“I’m not sure if AI will take jobs or not,<br>but I know for sure — the person who knows how to use AI will.”</i></h3>
+  <h3 style="color:#00ffff"><i>“ AI WON'T TAKE YOUR JOB ,<br> THE PERSON WHO USES AI WILL. ”</i></h3>
   <p align="center">— jensen huang</p>
 </blockquote>
 
