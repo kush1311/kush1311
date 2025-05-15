@@ -1,23 +1,8 @@
-<!-- Custom Text Banner -->
-<p align="center">
-  <h1 style="font-family: 'Fira Code', monospace; color: #00FFFF;">
-    Kushal Desai
-  </h1>
-  <h3 style="font-family: 'Fira Code', monospace; color: #FF6F61;">
-    AI/ML Engineer | Building the Future with Code
-  </h3>
-</p>
+<h1 align="center">Hi there, I'm Kushal 👋</h1>
+<h3 align="center">🚀 AI/ML Engineer | Deep Learning Enthusiast | Building the Future with Code</h3>
 
-<!-- Animated Avatar -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" style="margin-right: 20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="80" style="margin-right: 20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="80" />
-</p>
-
-<!-- Animated Typing SVG with bigger width -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Passionate+AI+Developer;Loves+building+real-world+ML+projects;Exploring+the+world+of+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+AI+Developer;Loves+building+real-world+ML+projects;Exploring+the+world+of+LLMs" alt="Typing SVG" />
 </p>
 
 ---
@@ -68,14 +53,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kush1311&theme=tokyonight" />
-</p>
-
----
-
-### 🔍 Currently Exploring
-
-<p align="center">
-  `LangGraph` • `Gemini Pro` • `Docker` • `RAG-based Retrieval` • 🎙️ Voice Interfaces
 </p>
 
 ---
