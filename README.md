@@ -1,13 +1,9 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kush1311/kush1311/main/0443c269-a9eb-4e40-a41c-9bb3f4c72bd2.png" width="100%" alt="Kushal Desai Banner" />
-</p>
 
 <h1 align="center">Hi there, I'm Kushal 👋</h1>
 <h3 align="center">🚀 AI/ML Engineer | Deep Learning Enthusiast | Building the Future with Code</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Making+machines+see,+hear,+and+think.;Voice+assistants+with+LLMs.;ML-powered+solutions+for+real-world+problems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+AI+Developer;Loves+building+real-world+ML+projects;Exploring+the+world+of+LLMs" alt="Typing SVG" />
 </p>
 
 ---
