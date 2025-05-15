@@ -9,7 +9,7 @@
 
 ### 🔥 About Me:
 - 🎓 CS Engineer from Indus Institute of Technology, Ahmedabad  
-- 🤖 ML Intern @ **Relig Global** — automating recruitment using NLP, UiPath & LLMs  
+- 🤖 ML Engineer @ **Relig Global** — automating recruitment using NLP, UiPath & LLMs  
 - 🏍️ Built **traffic violation detection system** using YOLOv8 + NanoNets @ Infosys  
 - 🧠 Created scalable **AI agents** for financial scraping @ Fellowship.ai  
 - ⚽ Worked on real-time sports object detection models @ Sponsorlytix.ai  
