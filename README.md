@@ -1,8 +1,23 @@
-<h1 align="center">Hi there, I'm Kushal 👋</h1>
-<h3 align="center">🚀 AI/ML Engineer | Deep Learning Enthusiast | Building the Future with Code</h3>
-
+<!-- Custom Text Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+AI+Developer;Loves+building+real-world+ML+projects;Exploring+the+world+of+LLMs" alt="Typing SVG" />
+  <h1 style="font-family: 'Fira Code', monospace; color: #00FFFF;">
+    Kushal Desai
+  </h1>
+  <h3 style="font-family: 'Fira Code', monospace; color: #FF6F61;">
+    AI/ML Engineer | Building the Future with Code
+  </h3>
+</p>
+
+<!-- Animated Avatar -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" style="margin-right: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="80" style="margin-right: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="80" />
+</p>
+
+<!-- Animated Typing SVG with bigger width -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Passionate+AI+Developer;Loves+building+real-world+ML+projects;Exploring+the+world+of+LLMs" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,11 +50,11 @@
 
 | 🔧 Project | 🚀 Tech Stack | 📌 Description |
 |-----------|---------------|----------------|
-| 🎙️ AI Voice Assistant | Whisper, LLaMA, Selenium, pyttsx3 | Smart voice assistant that listens, thinks, responds, and automates |
-| 👦 Gender Recognition | OpenCV, TensorFlow | Real-time gender classification with high accuracy |
-| 🧠 Quiz Generator| GANs, Langchain, RAG | Auto-generates quizzes with subject/difficulty filters |
-| 📊 Stock Market Prediction | XGBoost, PPO RL, Streamlit, NSE data | Predicts Nifty50 stock movement using real-time data, RL agents, and financial sentiment |
-| 🏏 Dream11 Team Generator | OpenAI, LLMs, Python, ML, News APIs | Generates smart fantasy cricket teams using player stats, form analysis, pitch data, and LLM-driven logic |
+| 🎙️ [AI Voice Assistant](https://github.com/kush1311/AI-Voice-Assistant) | Whisper, LLaMA, Selenium, pyttsx3 | Smart voice assistant that listens, thinks, responds, and automates |
+| 👦 [Gender Recognition](https://github.com/kush1311/face-recognition) | OpenCV, TensorFlow | Real-time gender classification with high accuracy |
+| 🧠 [Quiz Generator](https://github.com/kush1311/Quiz-MCQ-Gen) | GANs, Langchain, RAG | Auto-generates quizzes with subject/difficulty filters |
+| 📊 [Stock Market Prediction](https://github.com/kush1311/stock-prediction-rl) | XGBoost, PPO RL, Streamlit, NSE data | Predicts Nifty50 stock movement using real-time data, RL agents, and financial sentiment |
+| 🏏 [Dream11 Team Generator](https://github.com/kush1311/dream11-team-builder) | OpenAI, LLMs, Python, ML, News APIs | Generates smart fantasy cricket teams using player stats, form analysis, pitch data, and LLM-driven logic |
 | 🧾 Candidate Matcher | Streamlit, MySQL, LLMs | Matches resumes to jobs using NLP + ranking logic |
 
 ---
@@ -53,6 +68,14 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kush1311&theme=tokyonight" />
+</p>
+
+---
+
+### 🔍 Currently Exploring
+
+<p align="center">
+  `LangGraph` • `Gemini Pro` • `Docker` • `RAG-based Retrieval` • 🎙️ Voice Interfaces
 </p>
 
 ---
