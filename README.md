@@ -35,11 +35,11 @@
 
 | 🔧 Project | 🚀 Tech Stack | 📌 Description |
 |-----------|---------------|----------------|
-| 🎙️ [AI Voice Assistant](https://github.com/kush1311/AI-Voice-Assistant) | Whisper, LLaMA, Selenium, pyttsx3 | Smart voice assistant that listens, thinks, responds, and automates |
-| 👦 [Gender Recognition](https://github.com/kush1311/face-recognition) | OpenCV, TensorFlow | Real-time gender classification with high accuracy |
-| 🧠 [Quiz Generator](https://github.com/kush1311/Quiz-MCQ-Gen) | GANs, Langchain, RAG | Auto-generates quizzes with subject/difficulty filters |
-| 📊 [Stock Market Prediction](https://github.com/kush1311/stock-prediction-rl) | XGBoost, PPO RL, Streamlit, NSE data | Predicts Nifty50 stock movement using real-time data, RL agents, and financial sentiment |
-| 🏏 [Dream11 Team Generator](https://github.com/kush1311/dream11-team-builder) | OpenAI, LLMs, Python, ML, News APIs | Generates smart fantasy cricket teams using player stats, form analysis, pitch data, and LLM-driven logic |
+| 🎙️ AI Voice Assistant | Whisper, LLaMA, Selenium, pyttsx3 | Smart voice assistant that listens, thinks, responds, and automates |
+| 👦 Gender Recognition | OpenCV, TensorFlow | Real-time gender classification with high accuracy |
+| 🧠 Quiz Generator| GANs, Langchain, RAG | Auto-generates quizzes with subject/difficulty filters |
+| 📊 Stock Market Prediction | XGBoost, PPO RL, Streamlit, NSE data | Predicts Nifty50 stock movement using real-time data, RL agents, and financial sentiment |
+| 🏏 Dream11 Team Generator | OpenAI, LLMs, Python, ML, News APIs | Generates smart fantasy cricket teams using player stats, form analysis, pitch data, and LLM-driven logic |
 | 🧾 Candidate Matcher | Streamlit, MySQL, LLMs | Matches resumes to jobs using NLP + ranking logic |
 
 ---
