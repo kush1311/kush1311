@@ -9,7 +9,7 @@
 
 ### 🔥 About Me:
 - 🎓 CS Engineer from Indus Institute of Technology, Ahmedabad  
-- 🤖 ML Intern @ **Relig Global** — automating recruitment using NLP, UiPath & LLMs  
+- 🤖 ML Engineer @ **Relig Global** — automating recruitment using NLP, UiPath & LLMs  
 - 🏍️ Built **traffic violation detection system** using YOLOv8 + NanoNets @ Infosys  
 - 🧠 Created scalable **AI agents** for financial scraping @ Fellowship.ai  
 - ⚽ Worked on real-time sports object detection models @ Sponsorlytix.ai  
@@ -38,11 +38,13 @@
 | 🎙️ [AI Voice Assistant](https://github.com/kush1311/AI-Voice-Assistant) | Whisper, LLaMA, Selenium, pyttsx3 | Smart voice assistant that listens, thinks, responds, and automates |
 | 👦 [Gender Recognition](https://github.com/kush1311/face-recognition) | OpenCV, TensorFlow | Real-time gender classification with high accuracy |
 | 🧠 [Quiz Generator](https://github.com/kush1311/Quiz-MCQ-Gen) | GANs, Langchain, RAG | Auto-generates quizzes with subject/difficulty filters |
+| 📊 [Stock Market Prediction](https://github.com/kush1311/stock-prediction-rl) | XGBoost, PPO RL, Streamlit, NSE data | Predicts Nifty50 stock movement using real-time data, RL agents, and financial sentiment |
+| 🏏 [Dream11 Team Generator](https://github.com/kush1311/dream11-team-builder) | OpenAI, LLMs, Python, ML, News APIs | Generates smart fantasy cricket teams using player stats, form analysis, pitch data, and LLM-driven logic |
 | 🧾 Candidate Matcher | Streamlit, MySQL, LLMs | Matches resumes to jobs using NLP + ranking logic |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kush1311&show_icons=true&theme=radical" width="47%" />
